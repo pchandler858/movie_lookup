@@ -2,7 +2,7 @@
   "name": "movies_search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pchandler858/movie_lookup.git",
+  "homepage": "https://pchandler858.github.io/movie_lookup/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.4.1",
@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
