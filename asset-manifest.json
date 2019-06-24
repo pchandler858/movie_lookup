@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pchandler858/movie_lookup.git/static/css/main.f144b109.chunk.css",
-    "main.js": "/pchandler858/movie_lookup.git/static/js/main.3ebe15c3.chunk.js",
-    "main.js.map": "/pchandler858/movie_lookup.git/static/js/main.3ebe15c3.chunk.js.map",
-    "runtime~main.js": "/pchandler858/movie_lookup.git/static/js/runtime~main.9527f85b.js",
-    "runtime~main.js.map": "/pchandler858/movie_lookup.git/static/js/runtime~main.9527f85b.js.map",
-    "static/js/2.a9611dfb.chunk.js": "/pchandler858/movie_lookup.git/static/js/2.a9611dfb.chunk.js",
-    "static/js/2.a9611dfb.chunk.js.map": "/pchandler858/movie_lookup.git/static/js/2.a9611dfb.chunk.js.map",
-    "index.html": "/pchandler858/movie_lookup.git/index.html",
-    "precache-manifest.77713a7e4d8c3f205a5021ab981e2de2.js": "/pchandler858/movie_lookup.git/precache-manifest.77713a7e4d8c3f205a5021ab981e2de2.js",
-    "service-worker.js": "/pchandler858/movie_lookup.git/service-worker.js",
-    "static/css/main.f144b109.chunk.css.map": "/pchandler858/movie_lookup.git/static/css/main.f144b109.chunk.css.map"
+    "main.css": "/movie_lookup/static/css/main.f144b109.chunk.css",
+    "main.js": "/movie_lookup/static/js/main.c6caeaa8.chunk.js",
+    "main.js.map": "/movie_lookup/static/js/main.c6caeaa8.chunk.js.map",
+    "runtime~main.js": "/movie_lookup/static/js/runtime~main.a4b0383d.js",
+    "runtime~main.js.map": "/movie_lookup/static/js/runtime~main.a4b0383d.js.map",
+    "static/js/2.a9611dfb.chunk.js": "/movie_lookup/static/js/2.a9611dfb.chunk.js",
+    "static/js/2.a9611dfb.chunk.js.map": "/movie_lookup/static/js/2.a9611dfb.chunk.js.map",
+    "index.html": "/movie_lookup/index.html",
+    "precache-manifest.10d0ad43abb95fca8cf7fe0d95f5dcb4.js": "/movie_lookup/precache-manifest.10d0ad43abb95fca8cf7fe0d95f5dcb4.js",
+    "service-worker.js": "/movie_lookup/service-worker.js",
+    "static/css/main.f144b109.chunk.css.map": "/movie_lookup/static/css/main.f144b109.chunk.css.map"
   }
 }
